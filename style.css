@@ -1,0 +1,92 @@
+.whole-area{
+    background: rgba(26, 26, 70, 0.945);
+    color:white;
+}
+.header a{
+    text-decoration: none;
+    color:white;
+}
+.text{
+    background: linear-gradient(to bottom,rgb(49, 117, 112),rgb(63, 94, 122));
+    text-align: center;
+    width:100%;
+    height:50%;
+}
+.text-btn{
+    border-radius:5%;
+    background: rgb(69, 48, 117);
+    height:50px;
+    width:120px;
+    margin:40px 50px 0px 100px;
+    line-height: 50px;
+}
+.text-btn a{
+    text-decoration: none;
+    color:#fff;
+}
+.carousel-inner img{
+    width:100%;
+    height:555px;
+}
+.third{
+    background: #fff;
+    color:black;
+}
+.third .fas{
+    border-radius:50%;
+    height: 80px;
+    width: 80px;
+    line-height: 80px;
+    font-size:25px;
+    border: 2px solid #eb87d3;
+    color: rebeccapurple;
+    padding-top: 5px;
+}
+.fourth{
+    background: rgb(243, 172, 243);
+    padding:100px;
+}
+.carousel-caption{
+    background: rgba(68, 59, 95, 0.6);
+}
+.card{
+    color:black;
+    padding:80px;
+    background: lightgray;
+}
+.card img{
+    height:350px;
+}
+.fifth{
+    background: rgb(72, 91, 109);
+}
+.fifth input[type="email"]{
+    height:50px;
+    width:430px;
+    border:none;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    padding-left:40px;
+    margin-top: 5px;
+}
+.fifth input[type="submit"]{
+    height:51px;
+    width:100px;
+    border:none;
+    border-top-right-radius: 20% 50%;
+    border-bottom-right-radius: 20% 50%;
+    margin-left:-10px;
+    margin-bottom:20px ;
+}
+.last-box{
+    margin-top: 50px;
+    border-right: 1px solid #fff;
+}
+.last-box ul li{
+    list-style: none;
+    padding:13px;
+}
+.last-box ul li a{
+    text-decoration: none;
+    color:white;
+}
